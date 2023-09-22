@@ -41,7 +41,7 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>app</finalName>
+		<finalName>Boot-app</finalName>
 
 		<plugins>
 			<plugin>
