@@ -41,7 +41,7 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>Boot-app</finalName>
+		<finalName>spring-Boot-app</finalName>
 
 		<plugins>
 			<plugin>
